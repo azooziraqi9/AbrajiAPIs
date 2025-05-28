@@ -1,0 +1,12 @@
+{
+    "Authentication": true,
+    "Invoice": true,
+    "Users": true,
+    "Dashboard": true,
+    "Manager": true,
+    "ResourceManagement": true,
+    "Card": true,
+    "Transaction": true,
+    "Debts": true,
+    "Wallet": true
+}
